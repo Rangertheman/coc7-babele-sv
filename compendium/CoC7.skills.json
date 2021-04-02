@@ -1,150 +1,150 @@
 {
-	"label": "Fertigkeiten",
+	"label": "Färdigheter",
 	"entries": [
 		{
 			"id": "Anthropology",
-			"name": "Anthropologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Antropologi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Archaeology",
-			"name": "Archäologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Arkeologi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},		
 		{
 			"id": "Artillery",
-			"name": "Artillerie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Artilleri",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Astronomy",
-			"name": "Astronomie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Astronomi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Dodge",
-			"name": "Ausweichen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Ducka",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Drive Auto",
-			"name": "Autofahren",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Chaufför (Bil)",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Axe",
-			"name": "Axt",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Yxa",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Library Use",
-			"name": "Bibliotheksnutzung",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Bibliotekskunskap",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Fine Art",
 			"name": "Bildende Kunst",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},		
 		{
 			"id": "Biology",
-			"name": "Biologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Biologi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Botany",
 			"name": "Botanik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Bow",
 			"name": "Bogen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Accounting",
 			"name": "Buchführung",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Acting",
 			"name": "Bühnenkunst",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Charm",
 			"name": "Charme",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Chemistry",
 			"name": "Chemie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Computer Use",
 			"name": "Computernutzung",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Cthulhu Mythos",
 			"name": "Cthulhu-Mythos",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Intimidate",
 			"name": "Einschüchtern",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},		
 		{
 			"id": "Electrical Repair",
 			"name": "Elektrische Reparaturen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Electronics",
 			"name": "Elektronik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "First Aid",
 			"name": "Erste Hilfe",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Forgery",
 			"name": "Fälscherei",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Handgun",
 			"name": "Faustfeuerwaffe",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Credit Rating",
 			"name": "Finanzkraft",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Flamethrower",
 			"name": "Flammenwerfer",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Flail",
 			"name": "Flegelwaffe",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Forensics",
 			"name": "Forensik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Photography",
 			"name": "Fotografie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Language (Any)",
@@ -154,212 +154,212 @@
 		{
 			"id": "Language (Other)",
 			"name": "Fremdsprache (Andere)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk</span></p>"
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</span></p>"
 		},
 		{
 			"id": "Garrote",
 			"name": "Garrote",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Geology",
 			"name": "Geologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Diving",
 			"name": "Gerätetauchen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "History",
 			"name": "Geschichte",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Rifle/Shotgun",
 			"name": "Gewehr/Flinte",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Brawl",
 			"name": "Handgemenge",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Art/Craft (Any)",
 			"name": "Handwerk/Kunst (Beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Listen",
 			"name": "Horchen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Hypnosis",
 			"name": "Hypnose",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Sleight of Hand",
 			"name": "Kaschieren",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Chainsaw",
 			"name": "Kettensäge",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Climb",
 			"name": "Klettern",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Cryptography",
 			"name": "Kryptographie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Read Lips",
 			"name": "Lippenlesen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},		
 		{
 			"id": "Machine Gun",
 			"name": "Maschinengewehr",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Submachine Gun",
 			"name": "Maschinenpistole",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Mathematics",
 			"name": "Mathematik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Mechanical Repair",
 			"name": "Mechanische Reparaturen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Medicine",
 			"name": "Medizine",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Meteorology",
 			"name": "Meteorologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Language (Own)",
 			"name": "Muttersprache",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk</span></p>"
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</span></p>"
 		},
 		{
 			"id": "Natural World",
 			"name": "Naturkunde",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},		
 		{
 			"id": "Science (Any)",
 			"name": "Naturwissenschaft (Beliebig)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk</span></p>"
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</span></p>"
 		},		
 		{
 			"id": "Occult",
 			"name": "Okkultismus",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},		
 		{
 			"id": "Navigate",
 			"name": "Orientierung",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},		
 		{
 			"id": "Whip",
 			"name": "Peitsche",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Pharmacy",
 			"name": "Pharmazie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Physics",
 			"name": "Physik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Psychoanalysis",
 			"name": "Psychoanalyse",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Psychology",
 			"name": "Psychologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Law",
 			"name": "Rechtswesen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Ride",
 			"name": "Reiten",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Locksmith",
 			"name": "Schließtechnik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Heavy Weapons",
 			"name": "Schwere Waffen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Operate Heavy Machinery",
 			"name": "Schweres Gerät",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Sword",
 			"name": "Schwert",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Swim",
 			"name": "Schwimmen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Spear",
 			"name": "Speer",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Demolitions",
 			"name": "Sprengen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Jump",
 			"name": "Springen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Track",
 			"name": "Spurensuche",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Track (Any)",
@@ -369,57 +369,57 @@
 		{
 			"id": "Pilot (Any)",
 			"name": "Steuern (Beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Animal Handling",
 			"name": "Tierdressur",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Survival (Any)",
 			"name": "Überlebenskunst (Beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Fast Talk",
 			"name": "Überreden",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Persuade",
 			"name": "Überzeugen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Stealth",
 			"name": "Verborgen bleiben",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Spot Hidden",
 			"name": "Verborgenes erkennen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Disguise",
 			"name": "Verkleiden",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Throw",
 			"name": "Werfen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Appraise",
 			"name": "Werte schätzen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Zoology",
 			"name": "Zoologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		}
 	]
 }
