@@ -1,6 +1,5 @@
 # coc7-babele-sv
- Swedish translation of HavlockV's Call of Cthulhu 7th edition system for Foundry VTT.
-
+ 
 ## Description - Beskrivning  
 
 * Swedish translation of HavlockV's Call of Cthulhu 7th edition system for Foundry VTT.
