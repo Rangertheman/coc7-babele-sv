@@ -2,13 +2,13 @@
  
 ## Description - Beskrivning  
 
-* Swedish translation of HavlockV's Call of Cthulhu 7th edition system for Foundry VTT.
+* Swedish translation of HavlockV's Call of Cthulhu 7th edition (Unofficial) system for Foundry VTT.
 ----
-* Svensk översättning av HavlockVs Call of Cthulhu 7th edition-system till Foundry VTT.
+* Svensk översättning av HavlockVs Call of Cthulhu 7th edition (Unofficial)-system till Foundry VTT.
 
 ## Installation - Installation  
 
-* Install/Update _Call of Cthulhu 7th edition_ system, by HavlockV, from Foundry's system manager.
+* Install/Update _Call of Cthulhu 7th edition (Unofficial)_ system, by HavlockV, from Foundry's system manager.
 [Module-URL](https://foundryvtt.com/packages/CoC7/)
 * Install/Update _Babele_ module from Foundry's module manager.
 [Module-URL](https://foundryvtt.com/packages/babele/)
@@ -19,7 +19,7 @@
 * Inside the Game World, at _Configuration/Manage Modules_ activate Babele and both translations.
 * At _Configuration/Setup_ change language to Svenska.
 ----
-* Installera/uppdatera _Call of Cthulhu 7th edition_ av HavlockV via Spelsystem-menyn i Foundry.
+* Installera/uppdatera _Call of Cthulhu 7th edition (Unofficial)_ av HavlockV via Spelsystem-menyn i Foundry.
 [Modul-URL](https://foundryvtt.com/packages/CoC7/)
 * Installera/uppdatera modulen _Babele_ via Tilläggsmodul-menyn i Foundry.
 [Modul-URL](https://foundryvtt.com/packages/babele/)
