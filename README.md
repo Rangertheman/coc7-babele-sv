@@ -13,7 +13,7 @@
 * Install/Update _Babele_ module from Foundry's module manager.
 [Module-URL](https://foundryvtt.com/packages/babele/)
 * (Optional) Install/Update _Swedish [Core]_ module from Foundry's module manager:
-[Module-URL](https://foundryvtt.com/packages/lang-de)
+[Module-URL](https://foundryvtt.com/packages/lang-sv)
 * Install/Update _Translation: Svenska (Call of Cthulhu 7th edition)_ module from Foundry's module manager:
 [Module-URL](https://foundryvtt.com/packages/coc7-babele-sv/)
 * Inside the Game World, at _Configuration/Manage Modules_ activate Babele and both translations.
