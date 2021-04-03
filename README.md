@@ -38,7 +38,7 @@
 ## Credits  
 
 * Översättning av Krister Persson (Rangertheman).
-* Förlagan till översättningen är gjord av *Xithrim* Translation: Deutsch (Call of Cthulhu 7) - https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-de/.
+* Stort tack (_muchas gracias_) till *lozalojo* för all hjälp, vägledning och samarbete.
 * *Babele* är en modul skapad av *Simone Ricciardi*.
 
 ## Versioner
