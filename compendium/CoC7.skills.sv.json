@@ -1,0 +1,433 @@
+{
+   "label":"Färdigheter",
+   "entries":[
+      {
+         "id":"Anthropology",
+         "name":"Antropologi",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Fighting",
+         "name":"Strid"
+      },
+      {
+         "id":"Firearms",
+         "name":"Skjutvapen"
+      },
+      {
+         "id":"Archaeology",
+         "name":"Arkeologi",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Artillery",
+         "name":"Artilleri",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Astronomy",
+         "name":"Astronomi",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Dodge",
+         "name":"Ducka",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Drive Auto",
+         "name":"Chaufför (Bil)",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Axe",
+         "name":"Yxa",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Library Use",
+         "name":"Bibliotekskunskap",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Fine Art",
+         "name":"Måla",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Biology",
+         "name":"Biologi",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Botany",
+         "name":"Botanik",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Bow",
+         "name":"Pilbåge",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Accounting",
+         "name":"Bokföring",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Acting",
+         "name":"Skådespelare",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Charm",
+         "name":"Charma",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Chemistry",
+         "name":"Kemi",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Computer Use",
+         "name":"Datoranvändning",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Cthulhu Mythos",
+         "name":"Cthulhumyten",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Intimidate",
+         "name":"Hota",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Electrical Repair",
+         "name":"Elektriker",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Electronics",
+         "name":"Elektronik",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"First Aid",
+         "name":"första hjälpen",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Forgery",
+         "name":"Förfalskning",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Handgun",
+         "name":"Pistol",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Credit Rating",
+         "name":"Levnadsstandard",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Flamethrower",
+         "name":"Eldkastare",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Flail",
+         "name":"Slaga",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Forensics",
+         "name":"Kriminalteknik)",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Photography",
+         "name":"Fotograf",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Language (Any)",
+         "name":"Språk (Varierar)",
+         "description":""
+      },
+      {
+         "id":"Language (Other)",
+         "name":"Språk (Annat)",
+         "description":"<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i Väktarens- eller Utredarens handbok</span></p>"
+      },
+      {
+         "id":"Garrote",
+         "name":"Garott",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Geology",
+         "name":"Geologi",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Diving",
+         "name":"Dyka",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"History",
+         "name":"Historia",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Rifle/Shotgun",
+         "name":"Gevär/Hagelsgevär",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Brawl",
+         "name":"Handgemäng",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Art/Craft (Any)",
+         "name":"Konst & hantverk (Varierar)",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Listen",
+         "name":"Lyssna",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Hypnosis",
+         "name":"Hypnos",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Sleight of Hand",
+         "name":"Fingefärdighet",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Chainsaw",
+         "name":"Motorsåg",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Climb",
+         "name":"Klättra",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Cryptography",
+         "name":"Kryptografi",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Read Lips",
+         "name":"Läppläsning",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Machine Gun",
+         "name":"Kulspruta",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Submachine Gun",
+         "name":"K-pist",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Mathematics",
+         "name":"Matematik",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Mechanical Repair",
+         "name":"Mekaniker",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Medicine",
+         "name":"Läkekonst",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Meteorology",
+         "name":"Meteorologi",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Language (Own)",
+         "name":"Språk (Eget)",
+         "description":"<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i Väktarens- eller Utredarens handbok</span></p>"
+      },
+      {
+         "id":"Natural World",
+         "name":"Naturkunskap",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Science (Any)",
+         "name":"Vetenskap (Varierar)",
+         "description":"<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i Väktarens- eller Utredarens handbok</span></p>"
+      },
+      {
+         "id":"Occult",
+         "name":"Ockultism",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Navigate",
+         "name":"Navigera",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Whip",
+         "name":"Piska",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Pharmacy",
+         "name":"Läkemedel",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Physics",
+         "name":"Fysik",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Psychoanalysis",
+         "name":"Psykoanalys",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Psychology",
+         "name":"Psykologi",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Law",
+         "name":"Juridik",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Ride",
+         "name":"Rida",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Locksmith",
+         "name":"Låssmed",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Heavy Weapons",
+         "name":"Tyngre handeldvapen",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Operate Heavy Machinery",
+         "name":"Maskinist",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Sword",
+         "name":"Svärd",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Swim",
+         "name":"Simma",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Spear",
+         "name":"Spjut",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Demolitions",
+         "name":"Sprängteknik",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Jump",
+         "name":"Hoppa",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Track",
+         "name":"Spåra",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Track (Any)",
+         "name":"Spåra (Varierar)",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Pilot (Any)",
+         "name":"Pilot/Skepare (Varierar)",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Animal Handling",
+         "name":"Dressyr",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Survival (Any)",
+         "name":"Överlevnad (Varierar)",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Fast Talk",
+         "name":"Bluffa",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Persuade",
+         "name":"Övertyga",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Stealth",
+         "name":"Smyga",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Spot Hidden",
+         "name":"Finna dolda ting",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Disguise",
+         "name":"Förklädnad",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Throw",
+         "name":"Kasta",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Appraise",
+         "name":"Värdering",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      },
+      {
+         "id":"Zoology",
+         "name":"Zoologi",
+         "description":"<p>Se kapitel 4 i Väktarens- eller Utredarens handbok</p>"
+      }
+   ]
+}
