@@ -43,6 +43,6 @@
 
 ## Versioner
 
-version 0.5.5:
+version 0.55.1:
 
 * initial release
