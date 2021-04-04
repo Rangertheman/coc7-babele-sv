@@ -1,425 +1,425 @@
 {
-	"label": "Skills",
+	"label": "Färdigheter",
 	"entries": [
 		{
 			"id": "Accounting",
-			"name": "Accounting",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Bokföring",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Acting",
-			"name": "Acting",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Skådespelare",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Animal Handling",
-			"name": "Animal Handling",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Dressyr",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Anthropology",
-			"name": "Anthropology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Antropologi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Appraise",
-			"name": "Appraise",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Värdering",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Archaeology",
-			"name": "Archaeology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Arkeologi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Art/Craft (Any)",
-			"name": "Art/Craft (Any)",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Konst/hantverk (Valfri)",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Artillery",
-			"name": "Artillery",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Artilleri",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Astronomy",
-			"name": "Astronomy",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Astronomi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Axe",
-			"name": "Axe",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Yxa",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Biology",
-			"name": "Biology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Biologi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Botany",
-			"name": "Botany",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Botanik",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Bow",
-			"name": "Bow",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Pilbåge",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Brawl",
-			"name": "Brawl",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Handgemäng",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Chainsaw",
-			"name": "Chainsaw",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Motorsåg",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Charm",
-			"name": "Charm",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Charma",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Chemistry",
-			"name": "Chemistry",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Kemi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Climb",
-			"name": "Climb",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Klättra",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Computer Use",
-			"name": "Computer Use",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Datoranvändning",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Credit Rating",
-			"name": "Credit Rating",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Levnadsstandard",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Cryptography",
-			"name": "Cryptography",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Kryptografi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Cthulhu Mythos",
-			"name": "Cthulhu Mythos",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Cthulhumyten",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Demolitions",
-			"name": "Demolitions",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Sprängteknik",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Disguise",
-			"name": "Disguise",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Förklädnad",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Diving",
-			"name": "Diving",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Dyka",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Dodge",
-			"name": "Dodge",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Ducka",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Drive Auto",
-			"name": "Drive Auto",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Chaufför (Bil)",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Electrical Repair",
-			"name": "Electrical Repair",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Elektriker",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Electronics",
-			"name": "Electronics",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Elektronik",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Fast Talk",
-			"name": "Fast Talk",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Bluffa",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Fine Art",
-			"name": "Fine Art",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Måla",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "First Aid",
-			"name": "First Aid",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Första hjälpen",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Flail",
-			"name": "Flail",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Slaga",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Flamethrower",
-			"name": "Flamethrower",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Eldkastare",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Forensics",
-			"name": "Forensics",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Kriminalteknik",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Forgery",
-			"name": "Forgery",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Förfalskning",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Garrote",
-			"name": "Garrote",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Garott",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Geology",
-			"name": "Geology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Geologi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Handgun",
-			"name": "Handgun",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Pistol",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Heavy Weapons",
-			"name": "Heavy Weapons",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Tyngre handeldvapen",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "History",
-			"name": "History",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Historia",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Hypnosis",
-			"name": "Hypnosis",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Hypnos",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Intimidate",
-			"name": "Intimidate",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Hota",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Jump",
-			"name": "Jump",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Hoppa",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Language (Any)",
-			"name": "Language (Any)",
+			"name": "Språk (Valfri)",
 			"description": ""
 		},
 		{
 			"id": "Language (Other)",
-			"name": "Language (Other)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">See the Call of Cthulhu - 7th Ed Core Rulebook</span></p>"
+			"name": "Språk (Annat)",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</span></p>"
 		},
 		{
 			"id": "Language (Own)",
-			"name": "Language (Own)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">See the Call of Cthulhu - 7th Ed Core Rulebook</span></p>"
+			"name": "Språk (Eget)",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</span></p>"
 		},
 		{
 			"id": "Law",
-			"name": "Law",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Juridik",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Library Use",
-			"name": "Library Use",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Bibliotekskunskap",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Listen",
-			"name": "Listen",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Lyssna",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Locksmith",
-			"name": "Locksmith",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Låssmed",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Machine Gun",
-			"name": "Machine Gun",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Kulspruta",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Mathematics",
-			"name": "Mathematics",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Matematik",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Mechanical Repair",
-			"name": "Mechanical Repair",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Mekaniker",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Medicine",
-			"name": "Medicine",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Läkekonst",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Meteorology",
-			"name": "Meteorology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Meteorologi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Natural World",
-			"name": "Natural World",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Naturkunskap",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Navigate",
-			"name": "Navigate",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Navigera",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Occult",
-			"name": "Occult",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Ockultism",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Operate Heavy Machinery",
-			"name": "Operate Heavy Machinery",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Maskinist",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Persuade",
-			"name": "Persuade",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Övertyga",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Pharmacy",
-			"name": "Pharmacy",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Läkemedel",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Photography",
-			"name": "Photography",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Fotografi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Physics",
-			"name": "Physics",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Fysik",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Pilot (Any)",
-			"name": "Pilot (Any)",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Pilot/Skepare (Valfri)",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Psychoanalysis",
-			"name": "Psychoanalysis",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Psykoanalys",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Psychology",
-			"name": "Psychology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Psykologi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Read Lips",
-			"name": "Read Lips",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Läppläsning",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Ride",
-			"name": "Ride",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Rida",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Rifle/Shotgun",
-			"name": "Rifle/Shotgun",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Gevär/Hagelgevär",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Science (Any)",
-			"name": "Science (Any)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">See the Call of Cthulhu - 7th Ed Core Rulebook</span></p>"
+			"name": "Vetenskap (Valfri)",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</span></p>"
 		},
 		{
 			"id": "Sleight of Hand",
-			"name": "Sleight of Hand",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Fingerfärdighet",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Spear",
-			"name": "Spear",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Spjut",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Spot Hidden",
-			"name": "Spot Hidden",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Finna dolda ting",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Stealth",
-			"name": "Stealth",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Smyga",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Submachine Gun",
-			"name": "Submachine Gun",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "K-pist",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Survival (Any)",
-			"name": "Survival (Any)",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Överlevnad (Valfri)",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Swim",
-			"name": "Swim",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Simma",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Sword",
-			"name": "Sword",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Svärd",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Throw",
-			"name": "Throw",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Kasta",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Track",
-			"name": "Track",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Spåra",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Track (Any)",
-			"name": "Track (Any)",
+			"name": "Spåra (Valfri)",
 			"description": ""
 		},
 		{
 			"id": "Whip",
-			"name": "Whip",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Piska",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		},
 		{
 			"id": "Zoology",
-			"name": "Zoology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Zoologi",
+			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
 		}
 	]
 }
