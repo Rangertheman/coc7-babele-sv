@@ -7,7 +7,7 @@
 			"items": [
 				{
 					"_id": "E3y6HmUAZGyAv5zM",
-					"name": "Accounting",
+					"name": "Bokföring",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -50,7 +50,7 @@
 				},
 				{
 					"_id": "XhHYF5tSQj8n7nIt",
-					"name": "Anthropology",
+					"name": "Antropologi",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -93,7 +93,7 @@
 				},
 				{
 					"_id": "VDsiVSMGcoUXCxdw",
-					"name": "Appraise",
+					"name": "Värdering",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -136,7 +136,7 @@
 				},
 				{
 					"_id": "lDsTVk3C1CALLJV9",
-					"name": "Charm",
+					"name": "Charma",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -179,7 +179,7 @@
 				},
 				{
 					"_id": "k4q7dNE6yyaWvg6t",
-					"name": "Credit Rating",
+					"name": "Levnadsstandard",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -223,7 +223,7 @@
 				},
 				{
 					"_id": "U82PaYvshoVvFLTt",
-					"name": "Cthulhu Mythos",
+					"name": "Cthulhumyten",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -267,7 +267,7 @@
 				},
 				{
 					"_id": "J0lo87g53txd5SLS",
-					"name": "Disguise",
+					"name": "Förklädnad",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -310,7 +310,7 @@
 				},
 				{
 					"_id": "84CUVd7oXCBoDRh7",
-					"name": "Dodge",
+					"name": "Ducka",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -353,7 +353,7 @@
 				},
 				{
 					"_id": "bHgRyyed99nleqcG",
-					"name": "Drive Auto",
+					"name": "Chaufför (Bil)",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -396,7 +396,7 @@
 				},
 				{
 					"_id": "lYpc5wP0ocjfX38X",
-					"name": "Electrical Repair",
+					"name": "Elektriker",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -439,7 +439,7 @@
 				},
 				{
 					"_id": "rDU26YAzBpBMQP27",
-					"name": "Fast Talk",
+					"name": "Bluffa",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -482,7 +482,7 @@
 				},
 				{
 					"_id": "kjaEOLz2p8ZrEowW",
-					"name": "Brawl",
+					"name": "Handgemäng",
 					"type": "skill",
 					"data": {
 						"specialization": "Fighting",
@@ -527,7 +527,7 @@
 				},
 				{
 					"_id": "O6xeAxF7aEY8zHdm",
-					"name": "Handgun",
+					"name": "Pistol",
 					"type": "skill",
 					"data": {
 						"specialization": "Firearms",
@@ -572,7 +572,7 @@
 				},
 				{
 					"_id": "MaFf4EBxPNbDiFoZ",
-					"name": "Shotgun",
+					"name": "Hagelgevär",
 					"type": "skill",
 					"data": {
 						"specialization": "Firearms",
@@ -617,7 +617,7 @@
 				},
 				{
 					"_id": "ZI31AYDfuXNjE6W9",
-					"name": "First Aid",
+					"name": "Första hjälpen",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -660,7 +660,7 @@
 				},
 				{
 					"_id": "2LmfyHywLRLjfYZK",
-					"name": "History",
+					"name": "Historia",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -703,7 +703,7 @@
 				},
 				{
 					"_id": "pW0uDSp9w8CFCPLN",
-					"name": "Intimidate",
+					"name": "Hota",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -746,7 +746,7 @@
 				},
 				{
 					"_id": "1WVyK6rnfd5LiwZF",
-					"name": "Jump",
+					"name": "Hoppa",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -789,7 +789,7 @@
 				},
 				{
 					"_id": "eYqdGfBBKGBihakf",
-					"name": "Language (Own)",
+					"name": "Språk (Eget))",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -832,7 +832,7 @@
 				},
 				{
 					"_id": "IwRD21t2beB16frp",
-					"name": "Law",
+					"name": "Juridik",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -875,7 +875,7 @@
 				},
 				{
 					"_id": "m6cYXpQe1bY13JD8",
-					"name": "Library Use",
+					"name": "Bibliotekskunskap",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -918,7 +918,7 @@
 				},
 				{
 					"_id": "RW3uFJY5WH9lg49Z",
-					"name": "Climb",
+					"name": "Klättra",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -961,7 +961,7 @@
 				},
 				{
 					"_id": "AHG7Inw3sZTY6qWV",
-					"name": "Listen",
+					"name": "Lyssna",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1004,7 +1004,7 @@
 				},
 				{
 					"_id": "3Jysn2i3cSgykZHp",
-					"name": "Locksmith",
+					"name": "Låssmed",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1047,7 +1047,7 @@
 				},
 				{
 					"_id": "IbwXpzOw7IyzPqmI",
-					"name": "Mechanical Repair",
+					"name": "Mekaniker",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1090,7 +1090,7 @@
 				},
 				{
 					"_id": "Mmy1vrySUmlMq8Wu",
-					"name": "Medicine",
+					"name": "Läkekonst",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1133,7 +1133,7 @@
 				},
 				{
 					"_id": "PhzNWFslePSOjMeE",
-					"name": "Natural World",
+					"name": "Naturkunskap",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1176,7 +1176,7 @@
 				},
 				{
 					"_id": "kzdAswgR5VFrc8wH",
-					"name": "Navigate",
+					"name": "Navigera",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1219,7 +1219,7 @@
 				},
 				{
 					"_id": "8Vz3jYVrRH4z6kZR",
-					"name": "Occult",
+					"name": "Ockultism",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1262,7 +1262,7 @@
 				},
 				{
 					"_id": "WPppQWg72tJf8Ufs",
-					"name": "Operate Heavy Machinery",
+					"name": "Maskinist",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1305,7 +1305,7 @@
 				},
 				{
 					"_id": "v2mCLTJ5uV9xcZtU",
-					"name": "Persuade",
+					"name": "Övertyga",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1348,10 +1348,10 @@
 				},
 				{
 					"_id": "OFaRTxDfNzPqnWPE",
-					"name": "Any",
+					"name": "Valfri",
 					"type": "skill",
 					"data": {
-						"specialization": "Pilot",
+						"specialization": "Pilot/Skeppare",
 						"description": {
 							"value": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>",
 							"opposingDifficulty": "",
@@ -1391,7 +1391,7 @@
 				},
 				{
 					"_id": "3RIMHZyf9dI5HIOF",
-					"name": "Psychoanalysis",
+					"name": "Psykoanalys",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1434,7 +1434,7 @@
 				},
 				{
 					"_id": "IChZCFGH2cJeQmmw",
-					"name": "Psychology",
+					"name": "Psykologi",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1477,7 +1477,7 @@
 				},
 				{
 					"_id": "EEEND8YZ91rtVW48",
-					"name": "Ride",
+					"name": "Rida",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1520,7 +1520,7 @@
 				},
 				{
 					"_id": "XE0HsG49O1CPI9r1",
-					"name": "Sleight of Hand",
+					"name": "Fingerfärdighet",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1563,7 +1563,7 @@
 				},
 				{
 					"_id": "jEaOE3HSP6EGGfUO",
-					"name": "Spot Hidden",
+					"name": "Finna dolda ting",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1606,10 +1606,10 @@
 				},
 				{
 					"_id": "3mLypx5XOhaE0kDB",
-					"name": "Any",
+					"name": "Valfri",
 					"type": "skill",
 					"data": {
-						"specialization": "Survival",
+						"specialization": "Överlevnad",
 						"description": {
 							"value": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>",
 							"opposingDifficulty": "",
@@ -1649,7 +1649,7 @@
 				},
 				{
 					"_id": "5jLflB6Ez9h2ILPA",
-					"name": "Stealth",
+					"name": "Smyga",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1684,10 +1684,10 @@
 				},
 				{
 					"_id": "2Wrbf4c9TNiW5DYu",
-					"name": "Throw",
+					"name": "Kasta",
 					"type": "skill",
 					"data": {
-						"specialization": "Fighting",
+						"specialization": "Strid",
 						"description": {
 							"value": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>",
 							"opposingDifficulty": "",
@@ -1729,7 +1729,7 @@
 				},
 				{
 					"_id": "laKcJWNqaQQa8tHg",
-					"name": "Archaeology",
+					"name": "Arkeologi",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1772,7 +1772,7 @@
 				},
 				{
 					"_id": "IeaxvTs5r5KQxSvQ",
-					"name": "Swim",
+					"name": "Simma",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -1815,7 +1815,7 @@
 				},
 				{
 					"_id": "i1VYLHBcWrIUd57K",
-					"name": "Fists",
+					"name": "Knytnävar",
 					"type": "weapon",
 					"data": {
 						"description": {
@@ -1902,10 +1902,10 @@
 				},
 				{
 					"_id": "jR4Qq2clAIB5kSIn",
-					"name": "Any",
+					"name": "Valfri",
 					"type": "skill",
 					"data": {
-						"specialization": "Art/Craft",
+						"specialization": "Konst/hantverk",
 						"description": {
 							"value": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>",
 							"opposingDifficulty": "",
@@ -1949,10 +1949,10 @@
 				},
 				{
 					"_id": "wj7Dm3wKkoU2ox16",
-					"name": "Any",
+					"name": "Valfri",
 					"type": "skill",
 					"data": {
-						"specialization": "Language",
+						"specialization": "Språk",
 						"description": {
 							"value": "",
 							"opposingDifficulty": "",
@@ -1986,10 +1986,10 @@
 				},
 				{
 					"_id": "mVvcxcuAj4siP5Fl",
-					"name": "Any",
+					"name": "Valfri",
 					"type": "skill",
 					"data": {
-						"specialization": "Science",
+						"specialization": "Vetenskap",
 						"description": {
 							"value": "<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</span></p>",
 							"opposingDifficulty": "",
@@ -2023,10 +2023,10 @@
 				},
 				{
 					"_id": "1sx4ciqtI5dOWbrC",
-					"name": "Any",
+					"name": "Valfri",
 					"type": "skill",
 					"data": {
-						"specialization": "Track",
+						"specialization": "Spåra",
 						"description": {
 							"value": "",
 							"opposingDifficulty": "",
@@ -2062,11 +2062,11 @@
 		},
 		{
 			"id": "Creature example",
-			"name": "Creature example",
+			"name": "Exempel på varelse",
 			"items": [
 				{
 					"_id": "dLLdlRaQmkE9QYUJ",
-					"name": "Slice PCs in small cubes",
+					"name": "Hacka rollpersoner i småbitar",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -2096,18 +2096,18 @@
 				},
 				{
 					"_id": "H30y50QJUdx9Xjii",
-					"name": "Deadly claws",
+					"name": "Dödliga klor",
 					"type": "weapon",
 					"data": {
 						"description": {
-							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
+							"value": "<p>Vapenbeskrivning</p>\n<p>väljer du 'Effektområde' öppnas tre olika skador och räckvidder upp</p>\n<p>väljer du 'Automateld' kan två olika färdigheter väljas för vapnet</p>\n<p>väljer du 'Special' öppnas specialfältet upp</p>\n<p>Har ikonerna röd bakgrund under stridsfliken, betyder det att du inte valt någon färdighet för det vapnet</p>\n<p>Redigera vapnet och välj den korrekta färdigheten.</p>",
 							"chat": "",
-							"special": "<p>You can add special description or slugs there :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "<p>Du kan lägga till en särskild beskrivning eller kulor där :</p>\n<p>Skott 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
 							"main": {
-								"name": "To be selected once the weapon is owned",
+								"name": "Kan endast väljas när du äger vapnet",
 								"id": "dLLdlRaQmkE9QYUJ"
 							},
 							"alternativ": {
@@ -2117,17 +2117,17 @@
 						},
 						"range": {
 							"normal": {
-								"value": "15ft",
+								"value": "5m",
 								"units": "",
 								"damage": "10d6"
 							},
 							"long": {
-								"value": "25ft",
+								"value": "7,5m",
 								"units": "",
 								"damage": "2d6"
 							},
 							"extreme": {
-								"value": "35ft",
+								"value": "10m",
 								"units": "",
 								"damage": "3d6"
 							}
@@ -2175,7 +2175,7 @@
 				},
 				{
 					"_id": "i6nvPoQNE6CTSz5C",
-					"name": "Pile of junk",
+					"name": "Skräphög",
 					"type": "item",
 					"data": {
 						"description": "",
@@ -2190,10 +2190,10 @@
 				},
 				{
 					"_id": "blVIcQR6OUZ4LeqG",
-					"name": "Fighting",
+					"name": "Strid",
 					"type": "skill",
 					"data": {
-						"specialization": "Fighting",
+						"specialization": "Strid",
 						"description": {
 							"value": "",
 							"opposingDifficulty": "",
@@ -2218,18 +2218,18 @@
 				},
 				{
 					"_id": "izZoClJXLwUpoiy7",
-					"name": "Innate attack",
+					"name": "Medfött anfallsvapen",
 					"type": "weapon",
 					"data": {
 						"description": {
-							"value": "Creature's natural attack",
-							"chat": "Creature's natural attack",
+							"value": "Varselsens naturliga anfallsvapen",
+							"chat": "Varselsens naturliga anfallsvapen",
 							"special": ""
 						},
-						"wpnType": "innate",
+						"wpnType": "medfött",
 						"skill": {
 							"main": {
-								"name": "Fighting",
+								"name": "Strid",
 								"id": "blVIcQR6OUZ4LeqG"
 							},
 							"alternativ": {
@@ -2276,11 +2276,11 @@
 		},
 		{
 			"id": "Goon",
-			"name": "Goon",
+			"name": "Hejduk",
 			"items": [
 				{
 					"_id": "MLzJUjOk8pGvbark",
-					"name": "Be a pain",
+					"name": "Vara en plåga",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -2310,7 +2310,7 @@
 				},
 				{
 					"_id": "vahGLRAWBleHGipn",
-					"name": "Try hard",
+					"name": "Verkligen försöka",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -2340,7 +2340,7 @@
 				},
 				{
 					"_id": "MzS8tNzfklkMETxe",
-					"name": "Orders",
+					"name": "Order",
 					"type": "item",
 					"data": {
 						"description": "",
@@ -2355,7 +2355,7 @@
 				},
 				{
 					"_id": "55AtqIMUTt5uER3Z",
-					"name": "Secret documents",
+					"name": "Hemliga dokument",
 					"type": "item",
 					"data": {
 						"description": "",
@@ -2370,18 +2370,18 @@
 				},
 				{
 					"_id": "bP89oaMSNTuMQdt5",
-					"name": "Punch",
+					"name": "Slå",
 					"type": "weapon",
 					"data": {
 						"description": {
-							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
+							"value": "<p>V</p>\n<p>väljer du 'Effektområde' öppnas tre olika skador och räckvidder upp</p>\n<p>väljer du 'Automateld' kan två olika färdigheter väljas för vapnet</p>\n<p>väljer du 'Special' öppnas specialfältet upp</p>\n<p>Har ikonerna röd bakgrund under stridsfliken, betyder det att du inte valt någon färdighet för det vapnet</p>\n<p>Redigera vapnet och välj den korrekta färdigheten.</p>",
 							"chat": "",
-							"special": "<p>You can add special description or slugs there :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "Du kan lägga till en särskild beskrivning eller kulor där : :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
 							"main": {
-								"name": "Brawl",
+								"name": "Handgemäng",
 								"id": "EUUoTqgF104Htwp5"
 							},
 							"alternativ": {
@@ -2391,17 +2391,17 @@
 						},
 						"range": {
 							"normal": {
-								"value": "15ft",
+								"value": "5m",
 								"units": "",
 								"damage": "1d3"
 							},
 							"long": {
-								"value": "25ft",
+								"value": "7,5m",
 								"units": "",
 								"damage": "2d6"
 							},
 							"extreme": {
-								"value": "35ft",
+								"value": "10m",
 								"units": "",
 								"damage": "3d6"
 							}
@@ -2449,10 +2449,10 @@
 				},
 				{
 					"_id": "GpHiBjo9O4FrPzdl",
-					"name": "Shotgun",
+					"name": "Hagelgevär",
 					"type": "skill",
 					"data": {
-						"specialization": "Firearms",
+						"specialization": "Skjutvapen",
 						"description": {
 							"value": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>",
 							"opposingDifficulty": "",
@@ -2488,7 +2488,7 @@
 				},
 				{
 					"_id": "DqmtcxhedeGwNdPb",
-					"name": "Dodge",
+					"name": "Ducka",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -2498,7 +2498,7 @@
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
-						"base": "1/2*@DEX",
+						"base": "1/2*@SMI",
 						"value": 25,
 						"attributes": {},
 						"properties": {
@@ -2525,10 +2525,10 @@
 				},
 				{
 					"_id": "EUUoTqgF104Htwp5",
-					"name": "Brawl",
+					"name": "Handgemäng",
 					"type": "skill",
 					"data": {
-						"specialization": "Fighting",
+						"specialization": "Strid",
 						"description": {
 							"value": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>",
 							"opposingDifficulty": "",
@@ -2564,7 +2564,7 @@
 				},
 				{
 					"_id": "odgm7NgwjcrVBoRZ",
-					"name": "Language (Own)",
+					"name": "Språk (Eget)",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -2574,8 +2574,8 @@
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
-						"base": "@EDU",
-						"value": "@EDU",
+						"base": "@UTB",
+						"value": "@UTB",
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -2601,7 +2601,7 @@
 				},
 				{
 					"_id": "Cgn0EMY6vNZ9iVHW",
-					"name": "Receive orders",
+					"name": "Ta order",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -2631,38 +2631,38 @@
 				},
 				{
 					"_id": "SZhoTtcwS9wOPXBU",
-					"name": "Shotgun",
+					"name": "Hagelgevär",
 					"type": "weapon",
 					"data": {
 						"description": {
-							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
+							"value": "<p>Vapenbeskrivning</p>\n<p>väljer du 'Effektområde' öppnas tre olika skador och räckvidder upp</p>\n<p>väljer du 'Automateld' kan två olika färdigheter väljas för vapnet</p>\n<p>väljer du 'Special' öppnas specialfältet upp</p>\n<p>Har ikonerna röd bakgrund under stridsfliken, betyder det att du inte valt någon färdighet för det vapnet</p>\n<p>Redigera vapnet och välj den korrekta färdigheten.</p>",
 							"chat": "",
-							"special": "<p>You can add special description or slugs there :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "<p>Du kan lägga till en särskild beskrivning eller kulor där :</p>\n<p>Kula 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
 							"main": {
-								"name": "Shotgun",
+								"name": "Hagelgevär",
 								"id": "GpHiBjo9O4FrPzdl"
 							},
 							"alternativ": {
-								"name": "Shotgun",
+								"name": "Hagelgevär",
 								"id": "GpHiBjo9O4FrPzdl"
 							}
 						},
 						"range": {
 							"normal": {
-								"value": "15ft",
+								"value": "5m",
 								"units": "",
 								"damage": "1d6"
 							},
 							"long": {
-								"value": "25ft",
+								"value": "7,5m",
 								"units": "",
 								"damage": "2d6"
 							},
 							"extreme": {
-								"value": "35ft",
+								"value": "10m",
 								"units": "",
 								"damage": "3d6"
 							}
@@ -2710,7 +2710,7 @@
 				},
 				{
 					"_id": "yfEPFv1QVtPS8pJQ",
-					"name": "Club",
+					"name": "Klubba",
 					"type": "weapon",
 					"data": {
 						"description": {
@@ -2796,11 +2796,11 @@
 		},
 		{
 			"id": "Vilain example",
-			"name": "Vilain example",
+			"name": "Exempel på skurk",
 			"items": [
 				{
 					"_id": "MLzJUjOk8pGvbark",
-					"name": "Be a pain",
+					"name": "Vara en plåga",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -2830,7 +2830,7 @@
 				},
 				{
 					"_id": "MUMDYUZ4xaEPfwin",
-					"name": "Takeover the world",
+					"name": "Ta över världen",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -2860,7 +2860,7 @@
 				},
 				{
 					"_id": "vahGLRAWBleHGipn",
-					"name": "Torment the PC",
+					"name": "Plåga rollperson",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -2890,7 +2890,7 @@
 				},
 				{
 					"_id": "MzS8tNzfklkMETxe",
-					"name": "Plan to enslave humanity",
+					"name": "Planera att förslava mänskligheten",
 					"type": "item",
 					"data": {
 						"description": "",
@@ -2905,7 +2905,7 @@
 				},
 				{
 					"_id": "55AtqIMUTt5uER3Z",
-					"name": "Very mean sidekick",
+					"name": "Väldigt elak underhuggare",
 					"type": "item",
 					"data": {
 						"description": "",
@@ -2920,18 +2920,18 @@
 				},
 				{
 					"_id": "bP89oaMSNTuMQdt5",
-					"name": "Punch",
+					"name": "Slå",
 					"type": "weapon",
 					"data": {
 						"description": {
-							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
+							"value": "<p>Vapenbeskrivning</p>\n<p>väljer du 'Effektområde' öppnas tre olika skador och räckvidder upp</p>\n<p>väljer du 'Automateld' kan två olika färdigheter väljas för vapnet</p>\n<p>väljer du 'Special' öppnas specialfältet upp</p>\n<p>Har ikonerna röd bakgrund under stridsfliken, betyder det att du inte valt någon färdighet för det vapnet</p>\n<p>Redigera vapnet och välj den korrekta färdigheten.</p>",
 							"chat": "",
-							"special": "<p>You can add special description or slugs there :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "<p>Du kan lägga till en särskild beskrivning eller kulor där :</p>\n<p>Kula 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
 							"main": {
-								"name": "Brawl",
+								"name": "Handgemäng",
 								"id": "EUUoTqgF104Htwp5"
 							},
 							"alternativ": {
@@ -2941,17 +2941,17 @@
 						},
 						"range": {
 							"normal": {
-								"value": "15ft",
+								"value": "5m",
 								"units": "",
 								"damage": "1d6"
 							},
 							"long": {
-								"value": "25ft",
+								"value": "7,5m",
 								"units": "",
 								"damage": "2d6"
 							},
 							"extreme": {
-								"value": "35ft",
+								"value": "10m",
 								"units": "",
 								"damage": "3d6"
 							}
@@ -2999,10 +2999,10 @@
 				},
 				{
 					"_id": "GpHiBjo9O4FrPzdl",
-					"name": "Shotgun",
+					"name": "Hagelgevär",
 					"type": "skill",
 					"data": {
-						"specialization": "Firearms",
+						"specialization": "Skjutvapen",
 						"description": {
 							"value": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>",
 							"opposingDifficulty": "",
@@ -3038,7 +3038,7 @@
 				},
 				{
 					"_id": "DqmtcxhedeGwNdPb",
-					"name": "Dodge",
+					"name": "Ducka",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -3048,7 +3048,7 @@
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
-						"base": "1/2*@DEX",
+						"base": "1/2*@SMI",
 						"value": 25,
 						"attributes": {},
 						"properties": {
@@ -3075,10 +3075,10 @@
 				},
 				{
 					"_id": "EUUoTqgF104Htwp5",
-					"name": "Brawl",
+					"name": "Handgemäng",
 					"type": "skill",
 					"data": {
-						"specialization": "Fighting",
+						"specialization": "Strid",
 						"description": {
 							"value": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>",
 							"opposingDifficulty": "",
@@ -3114,7 +3114,7 @@
 				},
 				{
 					"_id": "odgm7NgwjcrVBoRZ",
-					"name": "Language (Own)",
+					"name": "Språk (Eget)",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -3124,7 +3124,7 @@
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
-						"base": "@EDU",
+						"base": "@UTB",
 						"value": 50,
 						"attributes": {},
 						"properties": {
@@ -3151,7 +3151,7 @@
 				},
 				{
 					"_id": "Cgn0EMY6vNZ9iVHW",
-					"name": "Bark orders",
+					"name": "Vråla ut order",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -3181,38 +3181,38 @@
 				},
 				{
 					"_id": "SZhoTtcwS9wOPXBU",
-					"name": "My test weapon",
+					"name": "Mitt testvapen",
 					"type": "weapon",
 					"data": {
 						"description": {
-							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
+							"value": "<p>Vapenbeskrivning</p>\n<p>väljer du 'Effektområde' öppnas tre olika skador och räckvidder upp</p>\n<p>väljer du 'Automateld' kan två olika färdigheter väljas för vapnet</p>\n<p>väljer du 'Special' öppnas specialfältet upp</p>\n<p>Har ikonerna röd bakgrund under stridsfliken, betyder det att du inte valt någon färdighet för det vapnet</p>\n<p>Redigera vapnet och välj den korrekta färdigheten.</p>",
 							"chat": "",
-							"special": "<p>You can add special description or slugs there :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "<p>Du kan lägga till en särskild beskrivning eller kulor där :</p>\n<p>Kula 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
 							"main": {
-								"name": "Shotgun",
+								"name": "Hagelgevär",
 								"id": "GpHiBjo9O4FrPzdl"
 							},
 							"alternativ": {
-								"name": "Shotgun",
+								"name": "Hagelgevär",
 								"id": "GpHiBjo9O4FrPzdl"
 							}
 						},
 						"range": {
 							"normal": {
-								"value": "15ft",
+								"value": "5m",
 								"units": "",
 								"damage": "1d6"
 							},
 							"long": {
-								"value": "25ft",
+								"value": "7,5m",
 								"units": "",
 								"damage": "2d6"
 							},
 							"extreme": {
-								"value": "35ft",
+								"value": "10m",
 								"units": "",
 								"damage": "3d6"
 							}

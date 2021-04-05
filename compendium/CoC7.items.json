@@ -19,7 +19,7 @@
 		{
 			"id": "Experimental weapon",
 			"name": "Experimentellt vapen",
-			"description": "<p>Beskrivning av vapnet</p>\n<p>väljer du 'Effektområde' öppnas tre olika skador och räckvidder upp</p>\n<p>väljer du 'Automateld' kan två olika färdigheter väljas för vapnet</p>\n<p>väljer du 'Special' öppnas specialfältet upp</p>\n<p>Har ikonerna röd bakgrund under stridsfliken, betyder det att du inte valt någon färdighet för det vapnet</p>\n<p>Redigera vapnet och välj den korrekta färdigheten.</p>"
+			"description": "<p>Vapenbeskrivning</p>\n<p>väljer du 'Effektområde' öppnas tre olika skador och räckvidder upp</p>\n<p>väljer du 'Automateld' kan två olika färdigheter väljas för vapnet</p>\n<p>väljer du 'Special' öppnas specialfältet upp</p>\n<p>Har ikonerna röd bakgrund under stridsfliken, betyder det att du inte valt någon färdighet för det vapnet</p>\n<p>Redigera vapnet och välj den korrekta färdigheten.</p>"
 		},
 		{
 			"id": "Occupation Example",
