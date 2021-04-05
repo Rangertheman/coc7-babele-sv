@@ -1,5 +1,5 @@
 {
-	"label": "Examples",
+	"label": "Exempel på karaktärer",
 	"entries": [
 		{
 			"id": "1920 Character",
@@ -2062,7 +2062,7 @@
 		},
 		{
 			"id": "Creature example",
-			"name": "Exempel på varelse",
+			"name": "Varelse",
 			"items": [
 				{
 					"_id": "dLLdlRaQmkE9QYUJ",
@@ -2370,7 +2370,7 @@
 				},
 				{
 					"_id": "bP89oaMSNTuMQdt5",
-					"name": "Slå",
+					"name": "Kny",
 					"type": "weapon",
 					"data": {
 						"description": {
@@ -2796,7 +2796,7 @@
 		},
 		{
 			"id": "Vilain example",
-			"name": "Exempel på skurk",
+			"name": "Skurk",
 			"items": [
 				{
 					"_id": "MLzJUjOk8pGvbark",
