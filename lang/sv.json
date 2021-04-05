@@ -195,7 +195,7 @@
    "CoC7.rangeCombatCard.ExtremeRange":"Räckvidd, extrem",
    "CoC7.rangeCombatCard.OutOfRange":"Utom skotthåll",
    "CoC7.rangeCombatCard.Cover":"I skydd",
-   "CoC7.rangeCombatCard.PointBlankRange":"På nära håll",
+   "CoC7.rangeCombatCard.PointBlankRange":"Påsittande",
    "CoC7.rangeCombatCard.BigTarget":"Stort mål",
    "CoC7.combatCard.SmallTarget":"Litet mål",
    "CoC7.rangeCombatCard.FastMovingTarget":"Snabbt mål",
@@ -283,7 +283,7 @@
    "CoC7.Weapon.Property.Melee":"Närstrid",
    "CoC7.Weapon.Property.Thrown":"Kastat",
    "CoC7.Weapon.Property.Burn":"Eld",
-   "CoC7.Weapon.Property.Shotgun":"Hagelbössa",
+   "CoC7.Weapon.Property.Shotgun":"Hagelgevär",
 
    "CoC7.ErrorItem":"Kunde inte hitta föremålet",
    "CoC7.ErrorActor":"Kunde inte hitta karaktären",
@@ -463,7 +463,7 @@
    "CoC7.InsaneTalent":"Galen",
    "CoC7.OtherTalent":"Annan",
 
-   "CoC7.Items":"Fäöremål",
+   "CoC7.Items":"Föremål",
    "CoC7.Vehicle":"Fordon",
    "CoC7.Books":"Böcker",
    "CoC7.Status":"Status",
