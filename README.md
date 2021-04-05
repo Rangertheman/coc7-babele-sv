@@ -43,6 +43,10 @@
 
 ## Versioner
 
+version 0.55.2
+
+* translated items and examples. Fixed minor typos
+
 version 0.55.1:
 
 * initial release

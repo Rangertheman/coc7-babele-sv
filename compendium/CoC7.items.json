@@ -3,32 +3,32 @@
 	"entries": [
 		{
 			"id": "1920's Setup Example",
-			"name": "1920's Setup Example",
-			"description": "<p>Default setup for 1920's character.</p>\n<p>&nbsp;</p>"
+			"name": "1920 Exempel på uppsättning",
+			"description": "<p>Standarduppsättning för en rollperson på 1920-talet.</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Archetype Example",
-			"name": "Archetype Example",
+			"name": "Exempel på arketyp",
 			"description": null
 		},
 		{
 			"id": "Death ray (prototype)",
-			"name": "Death ray (prototype)",
+			"name": "Dödsstråle (prototyp)",
 			"description": ""
 		},
 		{
 			"id": "Experimental weapon",
-			"name": "Experimental weapon",
-			"description": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>"
+			"name": "Experimentellt vapen",
+			"description": "<p>Beskrivning av vapnet</p>\n<p>väljer du 'Effektområde' öppnas tre olika skador och räckvidder upp</p>\n<p>väljer du 'Automateld' kan två olika färdigheter väljas för vapnet</p>\n<p>väljer du 'Special' öppnas specialfältet upp</p>\n<p>Har ikonerna röd bakgrund under stridsfliken, betyder det att du inte valt någon färdighet för det vapnet</p>\n<p>Redigera vapnet och välj den korrekta färdigheten.</p>"
 		},
 		{
 			"id": "Occupation Example",
-			"name": "Occupation Example",
+			"name": "Exempel på yrke",
 			"description": null
 		},
 		{
 			"id": "Punch",
-			"name": "Punch",
+			"name": "Slå",
 			"description": ""
 		}
 	]
