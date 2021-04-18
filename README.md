@@ -43,6 +43,11 @@
 
 ## Versioner
 
+version 0.56.1
+
+* new labels translated
+* resolved issue #2 (Cthulhu Mythos -> Cthulhumyten)
+
 version 0.55.2
 
 * translated items and examples. Fixed minor typos

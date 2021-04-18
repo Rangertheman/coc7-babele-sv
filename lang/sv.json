@@ -1,9 +1,7 @@
 {
    "CoC7.title":"Call of Cthulhu Sverige (Inofficiell)",
-
    "I18N.LANGUAGE":"Svenska",
    "I18N.MAINTAINERS":"@Rangertheman#4927",
-
    "CHARAC.STR":"STR",
    "CHARAC.Strengh":"Styrka",
    "CHARAC.Strength":"Styrka",
@@ -87,6 +85,13 @@
    "CoC7.All":"Alla",
    "CoC7.Success":"Framgång",
    "CoC7.CustomLabel":"Anpassad",
+   "CoC7.SpecificLocations":"Specifik placering",
+   "CoC7.ArmourPlating":"Bepansring",
+   "CoC7.Location":"Placering",
+   "CoC7.Properties":"Egenskaper",
+   "CoC7.Attributes":"Attribut",
+   "CoC7.Collapse":"Minska",
+   "CoC7.Expand":"Öka",
 
    "CoC7.RegularSuccess":"Normal framgång",
    "CoC7.HardSuccess":"Svår framgång",
@@ -451,7 +456,7 @@
 
    "CoC7.Crew":"Besättning",
    "CoC7.Origin":"Ursprung",
-   "CoC7.Model":"Modell",
+   "CoC7.ArmedVehicle":"Bepansrat fordon",
 
    "CoC7.PulpTalents":"Pulp-talanger",
    "CoC7.TalentType":"Talangtyp",
@@ -520,6 +525,7 @@
    "CoC7.DrawGun":"Dra ditt vapen",
 
    "CoC7.GmTools":"Väktarens verktyg",
+   "CoC7.GmNotes":"Väktarens anteckningar",
    "CoC7.DevPhase":"Utvecklingsfas",
    "CoC7.DevPhaseEnabled":"Utvecklingsfas startad",
    "CoC7.DevPhaseDisabled":"Utvecklingsfas stoppad",
@@ -559,6 +565,10 @@
    "CoC7.Convert":"Konvertering",
    "CoC7.NoConvert":"Ingen konvertering",
    "CoC7.Guess":"Gissa",
+   "CoC7.English":"Engelska",
+   "CoC7.Spanish":"Spanska",
+   "CoC7.French":"Franska",
+   "CoC7.SelectSourceLanguage":"Välj ursprungstextens språk",
 
    "SETTINGS.DefaultDifficulty":"Förvald svårighetsgrad",
    "SETTINGS.DefaultDifficultyHint":"Du kan välja svårighetsgrad för slagen. Väljer du 'okänd' vet spelarna inte om vilken svårighetsgraden är innan de slår.",
@@ -600,6 +610,8 @@
    "SETTINGS.OverrideSheetArtworkHint":"!!OMSTART KRÄVS!! Ger tillgång till rollformulärets avancerade inställningar. Lämna tomt för att behålla standardinställningarna",
    "SETTINGS.ArtWorkSheetBackground":"Rollformulär, bakgrund",
    "SETTINGS.ArtWorkSheetBackgroundHint":"skriv 'null' för att ta bort bakgrunden",
+   "SETTINGS.ArtWorkOtherSheetBackground":"Andra formulär, bakgrund",
+   "SETTINGS.ArtWorkOtherSheetBackgroundHint": "skriv 'null' för att ta bort bakgrunden. Används endast för föremål och fordon för tillfället",
    "SETTINGS.ArtworkSheetImage":"Rollformulär, bild",
    "SETTINGS.ArtworkSheetImageHint":"skriv 'null' för att ta bort bild",
    "SETTINGS.ArtworkFrontColor":"Primär färg",
