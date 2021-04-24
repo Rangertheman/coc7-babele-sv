@@ -43,6 +43,10 @@
 
 ## Versioner
 
+version 0.57.1
+
+* updated to HavlockV's version 0.5.7
+
 version 0.56.1
 
 * new labels translated
