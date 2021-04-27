@@ -544,6 +544,14 @@
    "CoC7.WarnFastTargetWithWrongMOV":"'Snabb' har valts för ett mål med lägre än 8 FÖR. (FÖR: {mov})",
    "CoC7.WarnTooManyTarget":"För många mål valda. Behåller bara det senast valda målet",
 
+   "CoC7.startRest": "Påbörja vila",
+   "CoC7.dreaming": "Utredaren väntar i drömmen",
+   "CoC7.healthRecovered": "Återfick en kroppspoäng",
+   "CoC7.pulpHealthRecovered": "Återfick {number} kroppspoäng",
+   "CoC7.dailySanLossRestarted": "Räknare för daglig sinnebelastning har nollställts",
+   "CoC7.hasCriticalWounds": "Kunde inte återfå några kroppspoäng på grund av en kritisk skada",
+   "CoC7.quickHealer": "Snabbhelare",
+
    "CoC7.ErrorNoDodgeSkill":"Karaktären har ingen ducka-färdighet",
    "CoC7.ErrorNotEnoughLuck":"{actor} hade inte tillräckligt många turpoäng för att klara slaget",
    "CoC7.ErrorManeuverNotPossible":"Din motståndare är för stark för att du ska kunna göra den handlingen",
