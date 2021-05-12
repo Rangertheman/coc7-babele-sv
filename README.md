@@ -43,6 +43,10 @@
 
 ## Versioner
 
+version 0.57.2
+
+* Swedish abbreviation for Strength changed from STR to STY. Thanks FinitelyFailed!
+
 version 0.57.1
 
 * updated to HavlockV's version 0.5.7
