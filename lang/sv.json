@@ -170,7 +170,7 @@
    "CoC7.Dodge":"Duckar",
    "CoC7.Maneuver":"Manövrerar",
    "CoC7.OutNumbered":"I underläge",
-   "CoC7.combatCard.surpised":"Överraskad",
+   "CoC7.combatCard.surprised":"Överraskad",
    "CoC7.combatCard.autoSuccess":"Automatiskt lyckat",
    "CoC7.Advantage":"Fördel",
    "CoC7.Disadvantage":"Nackdel",
@@ -580,6 +580,8 @@
    "CoC7.French":"Franska",
    "CoC7.SelectSourceLanguage":"Välj ursprungstextens språk",
 
+   "SETTINGS.DebugMode": "Debug-läge för systemet",
+   "SETTINGS.DebugModeHint": "!! OMSTART KRÄVS !!",
    "SETTINGS.DefaultDifficulty":"Förvald svårighetsgrad",
    "SETTINGS.DefaultDifficultyHint":"Du kan välja svårighetsgrad för slagen. Väljer du 'okänd' vet spelarna inte om vilken svårighetsgraden är innan de slår.",
    "SETTINGS.CheckDifficultyRegular":"Förvald svårighetsgrad",
