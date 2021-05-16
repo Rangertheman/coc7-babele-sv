@@ -43,6 +43,10 @@
 
 ## Versioner
 
+version 0.58.2
+
+* fixed minor typo
+
 version 0.58.1
 
 * updated to HavlockV's version 0.5.8
