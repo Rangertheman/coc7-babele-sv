@@ -116,7 +116,7 @@
    "CoC7.PushedRoll":"(forcerat slag)",
    "CoC7.SpendLuck":"Använd {luckNeededValue} turpoäng för att lyckas",
    "CoC7.LuckSpent":"{luckAmount} turpoäng har använts för att lyckas",
-   "CoC7.LuckSpentAlt":"Turppäng använda",
+   "CoC7.LuckSpentAlt":"Turpoäng använda",
    "CoC7.LuckError":"{actorName} hade inte tillräckligt med turpoäng för att lyckas",
    "CoC7.check.AutoSuccess":"Automatiskt lyckat",
    "CoC7.check.AutoFailure":"Automatiskt misslyckat",
