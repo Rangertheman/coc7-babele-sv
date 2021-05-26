@@ -43,6 +43,10 @@
 
 ## Versioner
 
+version 0.58.3
+
+* updated sv.json with missing labels
+
 version 0.58.2
 
 * fixed minor typo
