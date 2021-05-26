@@ -43,6 +43,11 @@
 
 ## Versioner
 
+version 0.58.4
+
+* Additional updates to sv.json
+* version 0.58.x will most likely be the last one for Foundry VTT 0.7.x
+
 version 0.58.3
 
 * updated sv.json with missing labels
