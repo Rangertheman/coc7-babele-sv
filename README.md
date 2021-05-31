@@ -43,6 +43,10 @@
 
 ## Versioner
 
+version 0.59.1
+
+* updated to HavlockV's version 0.5.9
+
 version 0.58.4
 
 * Additional updates to sv.json
