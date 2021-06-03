@@ -43,6 +43,11 @@
 
 ## Versioner
 
+version 0.60.1
+
+* updated to HavlockV's version 0.6.0
+* intended for use with FoundryVTT 0.8.x
+
 version 0.59.1
 
 * updated to HavlockV's version 0.5.9
