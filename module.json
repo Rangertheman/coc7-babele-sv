@@ -32,6 +32,6 @@
   "system": "CoC7",
   "systemVersion": "0.5.9",
   "url": "https://github.com/Rangertheman/coc7-babele-sv",
-  "manifest": "https://raw.githubusercontent.com/Rangertheman/coc7-babele-sv/master/module.json",
-  "download": "https://github.com/Rangertheman/coc7-babele-sv/archive/master.zip"
+  "manifest": "https://raw.githubusercontent.com/Rangertheman/coc7-babele-sv/0.7.x/module.json",
+  "download": "https://github.com/Rangertheman/coc7-babele-sv/archive/0.7.x.zip"
 }
