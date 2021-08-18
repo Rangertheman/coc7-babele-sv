@@ -43,6 +43,11 @@
 
 ## Versioner
 
+version 0.63.1
+
+* updated to HavlockV's version 0.6.3
+* localization of the entity type names (Actors/Items) in the selection box when creating them
+
 version 0.62.1
 
 * updated to HavlockV's version 0.6.2
