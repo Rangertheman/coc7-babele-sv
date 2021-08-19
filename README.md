@@ -43,6 +43,10 @@
 
 ## Versioner
 
+version 0.64.2
+
+* minor changes to the translation
+
 version 0.64.1
 
 * updated to HavlockV's version 0.6.4
