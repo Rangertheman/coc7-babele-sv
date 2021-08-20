@@ -43,6 +43,10 @@
 
 ## Versioner
 
+version 0.64.3
+
+* added missing lines
+
 version 0.64.2
 
 * minor changes to the translation

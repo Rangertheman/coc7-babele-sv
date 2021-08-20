@@ -2,7 +2,7 @@
   "name": "coc7-babele-sv",
   "title": "Translation: Svenska (Call of Cthulhu 7th edition)",
   "description": "Swedish translation of HavlockV's Call of Cthulhu 7th edition (Unofficial) system for Foundry VTT. -  Svensk översättning av HavlockVs Call of Cthulhu 7th edition (Unofficial)-system till Foundry VTT.",
-  "version": "0.64.2",
+  "version": "0.64.3",
   "minimumCoreVersion" : "0.8.5",
   "compatibleCoreVersion":"0.8.9",
   "author": "Rangertheman",
@@ -13,7 +13,7 @@
     {
       "name": "babele",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "2.0.5"
+      "version": "2.0.6"
     },
     {
       "name": "CoC7",
