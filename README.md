@@ -43,6 +43,10 @@
 
 ## Versioner
 
+version 0.65.1
+
+* updated to HavlockV's version 0.6.5
+
 version 0.64.3
 
 * added missing lines
