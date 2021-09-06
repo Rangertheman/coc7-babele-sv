@@ -37,11 +37,16 @@
 * Förslag och feedback tas tacksamt emot. Använd vänligen "Issue-systemet" i Github.
 ## Credits  
 
+* Uppdateringen av HavlockVs spelsystem hanteras sedan 0.6.4 av Miskatonic Investigative Society.  
 * Översättning av Krister Persson (Rangertheman).
 * Stort tack (_muchas gracias_) till *lozalojo* för all hjälp, vägledning och samarbete.
 * *Babele* är en modul skapad av *Simone Ricciardi*.
 
 ## Versioner
+
+version 0.67.1
+
+* updated to HavlockV's version 0.6.7
 
 version 0.66.1
 
