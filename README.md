@@ -44,6 +44,10 @@
 
 ## Versioner
 
+version 0.68.1
+
+* updated to HavlockV's version 0.6.8
+
 version 0.67.1
 
 * updated to HavlockV's version 0.6.7
