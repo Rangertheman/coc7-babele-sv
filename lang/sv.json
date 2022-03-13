@@ -338,7 +338,6 @@
   "CoC7.Eras": "Cthulhu-varianter",
   "CoC7.EraAvailability": "Tillgänglighet",
 
-
   "CoC7.SkillNoAdjustments": "Ingen modifiering",
   "CoC7.SkillNoXpGain": "Ingen erfarenhet",
   "CoC7.SkillSpecial": "Specialicering",
@@ -538,7 +537,7 @@
   "CoC7.Occult": "Ockultism",
   "CoC7.Points": "poäng",
   "CoC7.MythosRating": "Mythosnivå",
-  "CoC7.NotOwned": "Den här boken måste ägas av en karaktär för att du ska kunna utföra handlingen.",
+  "CoC7.NotOwned": "Den här föremål måste ägas av en karaktär för att du ska kunna utföra handlingen.",
   "CoC7.StudyTime": "Studium",
   "CoC7.SpellCastingTime": "Tid",
   "CoC7.SpellCastingCost": "Kostnad",
@@ -551,6 +550,9 @@
   "CoC7.GateSpell": "Portal",
   "CoC7.CombatSpell": "Strid",
   "CoC7.SpellType": "Besvärjelsetyp",
+
+  "CoC7.SpellSuccessfullyLearned": "Besvärjelsen '{spell}' har lärts in!",
+  "CoC7.SpellAlreadyLearned": "Besvärjelsen med namnet ('{spell}') hade redan lärts in.",
 
   "CoC7.BookHasNothingMoreToTeach": "Det går inte att lära sig mer av {book}. {actor} har ett högre färdighetsvärde i Cthulhumyten än bokens mythosvärde.",
   "CoC7.BookType": "Boktyp",
@@ -671,9 +673,10 @@
   "CoC7.WarnNoControlledActor": "Du kontrollerar ingen karaktär",
   "CoC7.WarnFastTargetWithWrongMOV": "'Snabb' har valts för ett mål med lägre än 8 FÖR. (FÖR: {mov})",
   "CoC7.WarnTooManyTarget": "För många mål valda. Behåller bara det senast valda målet",
+  "CoC7.WarnNoTargetsSanCheck": "Du har inga mål valda. Välj mål eller skapa en länk.",
 
   "CoC7.allActors": "Alla karaktärer",
-  "CoC7.restTargets": "Vila valda mål",  
+  "CoC7.restTargets": "Vila valda mål",
   "CoC7.startRest": "Påbörja vila",
   "CoC7.dreaming": "Utredaren väntar i drömmen",
   "CoC7.healthRecovered": "Återfick en kroppspoäng",
@@ -720,7 +723,7 @@
   "CoC7.English": "Engelska",
   "CoC7.Spanish": "Spanska",
   "CoC7.French": "Franska",
-   "CoC7.German": "Tyska",
+  "CoC7.German": "Tyska",
   "CoC7.Polish": "Polska",
   "CoC7.TraditionalChinese": "Traditionell kinesiska",
   "CoC7.SelectSourceLanguage": "Välj ursprungstextens språk",
@@ -732,7 +735,7 @@
   "CoC7.ImportActorItemsItem": "Föremål",
   "CoC7.ImportActorItemsItemWorldModuleSystem": "Föremål / Spelvärldar / Moduler / System",
   "CoC7.ImportActorItemsWorldModuleItemSystem": "Spelvärldar / Moduler / Föremål / System",
-  
+
   "CoC7.HowToTranslateTitle": "Så här översätter du?",
   "CoC7.HowToTranslateWarning": "Installera inga moduler du inte litar på.",
   "CoC7.HowToTranslateInstallBabele": "Installera/uppdatera Babele-modulen från Foundrys tilläggsmodulhanterare.",
@@ -805,7 +808,7 @@
   "SETTINGS.TitleWeapon": "Vapeninställningar",
   "SETTINGS.TitleDiceSoNice": "Inställningar för Dice So Nice",
   "SETTINGS.TitleDeveloperDebug": "Utvecklar- och felsökningsinställningar",
-  "SETTINGS.TitleRollTable": "Tärningstabellsinställningar",  
+  "SETTINGS.TitleRollTable": "Tärningstabellsinställningar",
   "SETTINGS.DebugMode": "Felsökningsläge för systemet",
   "SETTINGS.DebugModeHint": "!! OMSTART KRÄVS !!",
   "SETTINGS.DefaultDifficulty": "Förvald svårighetsgrad",
@@ -913,5 +916,4 @@
 
   "CoC7.getTheExample": "Kopiera exempel",
   "CoC7.Copied": "Kopierade exempeltexten till Urklipp"
-
 }
